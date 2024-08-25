@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranayaaaa" alt="pranayaaaa" /></a> </p>
 
-- 🔭 I’m currently working on **Music Player**
+- 🔭 I’m currently working on **Blog Website**
 
 - 🌱 I’m currently learning **React-JS**
 
 - 📫 How to reach me **pranayapounikar24@gmail.com**
-
-- 📄 Know about me [https://plum-katharina-75.tiiny.site](https://plum-katharina-75.tiiny.site)
 
 - ⚡ Fun fact **I can code nonstop all day without needing sleep.**
 
