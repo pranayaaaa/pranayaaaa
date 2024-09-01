@@ -1,6 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Pranaya Pounikar</h1>
 <h3 align="center">Frontend developer and passionate MERN stack developer.</h3>
-<img align="right" alt="coding" width="200" src="https://www.shutterstock.com/image-vector/young-woman-writes-code-on-260nw-1731157933.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranayaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="pranayaaaa" /> </p>
 
