@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranayaaaa" alt="pranayaaaa" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant Website**
+- 🔭 I’m currently working on **Chat Application**
 
-- 🌱 I’m currently learning **React-JS**
+- 🌱 I’m currently learning **Node-JS**
 
 - 📫 How to reach me **pranayapounikar24@gmail.com**
 
